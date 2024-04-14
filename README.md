@@ -1,2 +1,1 @@
-[![Mediapipe](https://img.shields.io/badge/CustomTkinter-%23your_color?style=flat&logo=customtkinter&logoColor=white)](https://github.com/customtkinter/customtkinter)
-
+[<img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" width="50">](https://www.intel.com/)
