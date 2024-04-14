@@ -1,5 +1,21 @@
-[<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Intel_logo_%282020%2C_light_blue%29.svg/300px-Intel_logo_%282020%2C_light_blue%29.svg.png](https://www.google.com/imgres?q=mediaPIPE%20PNG&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1120%2F1*Hgg6bLceoIjubE2hBiJK4g.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40sujoykumargoswami%2Fmediapipe-with-python-for-dummies-3d3021da6705&docid=K6SrYMmoEjlaVM&tbnid=OrsfmQhdee1VkM&vet=12ahUKEwiJqsialMKFAxUMs1YBHccwACsQM3oECBsQAA..i&w=1120&h=304&hcb=2&ved=2ahUKEwiJqsialMKFAxUMs1YBHccwACsQM3oECBsQAA)" width="50">](https://www.intel.com/)
-[<img src="https://www.intel.com/content/dam/develop/public/us/en/images/admin/oneapi-logo-rev-4x3-rwd.png" width="50">](https://www.intel.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-%23316192.svg?style=flat&logo=mediapipe&logoColor=white)](https://mediapipe.dev/)
+
+# Pose Detection and Landmark Visualization with MediaPipe
+
+# Overview
+
+This project utilizes the MediaPipe library to perform real-time 2D pose detection and landmark visualization in images or video streams. It detects human poses and highlights key landmarks such as joints and body parts.
+
+![Inputs](images/UI.png)
+
+# Features
+
+1) Real-time 2D pose detection using MediaPipe
+2) Landmark visualization for detected poses
+3) Supports both images and video streams
+4) Easily customizable and extendable
+
+![Inputs](images/UI.png)
+
 
