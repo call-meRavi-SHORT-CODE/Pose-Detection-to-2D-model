@@ -20,6 +20,10 @@ It detects human poses and highlights key landmarks such as joints and body part
 
 ![Inputs](pose_Detection.png)
 
+# DEMO
+
+
+
    
 
 
