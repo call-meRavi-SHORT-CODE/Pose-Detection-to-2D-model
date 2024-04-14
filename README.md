@@ -25,7 +25,7 @@ This project utilizes the MediaPipe library to perform real-time 2D pose detecti
 
 5) **Easy Integration:** Designed for ease of integration into existing projects or workflows, with simple installation and usage instructions provided.
 
-![Inputs](pose.png)
+![Inputs](Pose.png)
 
 # DEMO
 
