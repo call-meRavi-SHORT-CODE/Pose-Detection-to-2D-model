@@ -28,6 +28,8 @@ This project utilizes the MediaPipe library to perform real-time 2D pose detecti
 
 # DEMO
 
+This project showcases the capabilities of real-time 2D pose detection and landmark visualization using the MediaPipe library. Below are the key features demonstrated in the demo: 
+
 ![Inputs](Demo_.png)
 
 
