@@ -12,9 +12,14 @@ It detects human poses and highlights key landmarks such as joints and body part
 ![Inputs](Mediapipe.png)
 
 # Features
-Real-time 2D pose detection using MediaPipe
-Landmark visualization for detected poses
-Supports both images and video streams
-Easily customizable and extendable
+
+1) Real-time 2D pose detection using MediaPipe.
+2) Landmark visualization for detected poses
+3) Supports both images and video streams
+4) Easily customizable and extendable
+
+![Inputs](pose_Detection.png)
+
+   
 
 
